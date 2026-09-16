@@ -81,8 +81,9 @@ Data and Business Intelligence Analyst with 5+ years of experience transforming 
 | Project | Business Problem & Solution | Data Stack |
 |---|---|---|
 | [Lakehouse Perfumes](https://github.com/fab-data/LakehousePerfumes) | End-to-end analytical solution for a perfume retail scenario, covering data ingestion, transformation, lakehouse modeling and insights for business decision-making. | Databricks · PySpark · Delta Lake · SQL · Power BI |
-
+|---|---|---|
 | [Weather Data Pipeline](https://github.com/fab-data/projeto_pipeline_weather) | End-to-end ETL pipeline that collects weather data from the OpenWeather API, transforms it with Python and loads the results into PostgreSQL. Apache Airflow orchestrates the workflow, while Docker standardizes the development environment. | Python · Pandas · PyArrow · SQLAlchemy · Apache Airflow · Docker · PostgreSQL |
+
 ---
 
 ## 🏅 Certifications
